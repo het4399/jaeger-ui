@@ -323,7 +323,8 @@ function mapDispatchToProps(dispatch) {
     cohortAddTrace,
     cohortRemoveTrace,
     fetchMultipleTraces,
-    fetchServiceOperations,
+    fetchServiceOperations, 
+    
     fetchServices,
     searchTraces,
     loadJsonTraces,
