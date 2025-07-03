@@ -326,6 +326,7 @@ function mapDispatchToProps(dispatch) {
     fetchServiceOperations, 
 
     fetchServices,
+
     
     searchTraces,
     loadJsonTraces,
